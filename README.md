@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/clone-the-columns-project-using-html-and-css-eQcz7Qc6M)
-- Live Site URL: [Live Project](https://ivaan1992.github.io/personal-project1/)
+- Live Site URL: [Live Project](https://ivaan1992.github.io/Columns/)
 
 ## My process
 
