@@ -13,7 +13,6 @@ This is a solution to the [3-column challenge on Frontend Mentor](https://www.fr
   - [What I learned](#)
 - [Author](https://github.com/ivaan1992) 
 
-
 ### The challenge
 
 Users should be able to:
