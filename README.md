@@ -13,7 +13,6 @@ This is a solution to the [3-column challenge on Frontend Mentor](https://www.fr
   - [What I learned](#)
 - [Author](https://github.com/ivaan1992) 
 
-
 ### The challenge
 
 Users should be able to:
@@ -35,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/clone-the-columns-project-using-html-and-css-eQcz7Qc6M)
-- Live Site URL: [Live Project](https://ivaan1992.github.io/personal-project1/)
+- Live Site URL: [Live Project](https://ivaan1992.github.io/Columns/)
 
 ## My process
 
